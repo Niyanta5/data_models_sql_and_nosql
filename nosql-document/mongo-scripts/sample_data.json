@@ -1,0 +1,17 @@
+[
+    {
+      "_id": "user_1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "orders": [
+        {
+          "order_id": "order_1",
+          "order_date": "2023-10-01T00:00:00Z",
+          "items": [
+            { "product_id": "product_1", "name": "Laptop", "price": 1000, "quantity": 1 },
+            { "product_id": "product_2", "name": "Mouse", "price": 20, "quantity": 2 }
+          ]
+        }
+      ]
+    }
+  ]
